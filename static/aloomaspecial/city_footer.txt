@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: large; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What is your process for servicing a unit during a long-term rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard long-term service, typically performed weekly, is comprehensive. Our technician will pump out the waste tank, thoroughly clean and sanitize all interior surfaces (walls, floor, seat, and urinal), restock it with fresh toilet paper and hand sanitizer, and recharge the tank with our biodegradable, odor-controlling solution.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">2. How do I protect my lawn or driveway from damage during delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our drivers are trained to be extremely careful. However, to fully protect sensitive surfaces, we recommend you mark the desired placement spot clearly. For delicate lawns or new pavement, you can place a small tarp or a piece of plywood down where the unit will sit to provide an extra layer of protection.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">3. What happens if I need an extra cleaning service before my scheduled day?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We understand that sometimes usage is higher than anticipated. If you find your unit needs an additional service, just give our office a call. We can dispatch a truck for an unscheduled service call for an additional fee, ensuring your unit is fresh and ready for your continued use.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">4. Do your units have any kind of lighting for nighttime events?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our standard portable restrooms do not come with lighting. For evening events, we recommend placing them in a well-lit area. However, many of our deluxe models and our luxury restroom trailers are equipped with interior, often solar-powered, lighting for nighttime convenience. Please inquire about these options when booking.</p>
+                <h4 class="template4 palooma" style="font-size:medium;">5. What is the most common mistake people make when ordering a porta potty?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The most common mistake is underestimating the number of units needed. For events, a good rule of thumb is one toilet per 75 guests for a 4-hour event, but this can change if alcohol is served. For job sites, OSHA has specific requirements. It's always better to have one extra unit than to be one short. Our team can help you calculate the perfect number for your specific needs.</p>
+                <div class="callalooma mx-auto"><a href="tel:870-306-3280">Click Here To Call Us (870) 306-3280</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
